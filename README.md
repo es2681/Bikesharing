@@ -1,6 +1,6 @@
 # Bikesharing
 ## Overview:
-The purpose of the project was to analyze and extrapolate citibike data from New York City collected in August 2019 so that it can be applied to establishing a bike-sharing program in Des Moines, IA. To view the Tableau data analysis, click [here](https://public.tableau.com/app/profile/emily.spokowski/viz/Module14Challenge_16481437470650/Story1)
+The purpose of the project was to analyze and extrapolate citibike data from New York City collected in August 2019 so that it can be applied to establishing a bike-sharing program in Des Moines, IA. To view the Tableau data analysis, click [here](https://public.tableau.com/app/profile/emily.spokowski/viz/Module14Challenge_16481437470650/Story1).
 
 ## Results:
 - In August 2019, 2,344,244 riders used citibikes in NYC. Approximately 65% of those riders were male and 25% were female. The gender of 10% is unknown. Ridership is highest between 8 and 10 am as well as 4 and 8 pm. Ridership is lowest between 12 and 6 am.
